@@ -733,11 +733,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &1068326207
-=======
---- !u!1 &1022225520
->>>>>>> pt-car
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -745,41 +741,24 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 1068326211}
   - component: {fileID: 1068326210}
   - component: {fileID: 1068326209}
   - component: {fileID: 1068326208}
   m_Layer: 0
   m_Name: Sphere (1)
-=======
-  - component: {fileID: 1022225524}
-  - component: {fileID: 1022225523}
-  - component: {fileID: 1022225522}
-  - component: {fileID: 1022225521}
-  m_Layer: 0
-  m_Name: Sphere (2)
->>>>>>> pt-car
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!135 &1068326208
-=======
---- !u!135 &1022225521
->>>>>>> pt-car
 SphereCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1068326207}
-=======
-  m_GameObject: {fileID: 1022225520}
->>>>>>> pt-car
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -794,21 +773,13 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!23 &1068326209
-=======
---- !u!23 &1022225522
->>>>>>> pt-car
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1068326207}
-=======
-  m_GameObject: {fileID: 1022225520}
->>>>>>> pt-car
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -844,48 +815,29 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
-<<<<<<< HEAD
 --- !u!33 &1068326210
-=======
---- !u!33 &1022225523
->>>>>>> pt-car
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1068326207}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &1068326211
-=======
-  m_GameObject: {fileID: 1022225520}
-  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &1022225524
->>>>>>> pt-car
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1068326207}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-=======
-  m_GameObject: {fileID: 1022225520}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2, z: 3.5}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
->>>>>>> pt-car
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &1178509115
 GameObject:
   m_ObjectHideFlags: 0
@@ -993,8 +945,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1178509115}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
-=======
->>>>>>> pt-car
 --- !u!1 &1487273912
 GameObject:
   m_ObjectHideFlags: 0
@@ -1313,11 +1263,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &2078729809
-=======
---- !u!1 &2109416283
->>>>>>> pt-car
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1325,42 +1271,24 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 2078729813}
   - component: {fileID: 2078729812}
   - component: {fileID: 2078729811}
   - component: {fileID: 2078729810}
   m_Layer: 0
   m_Name: Cube (1)
-=======
-  - component: {fileID: 2109416287}
-  - component: {fileID: 2109416286}
-  - component: {fileID: 2109416285}
-  - component: {fileID: 2109416284}
-  m_Layer: 0
-  m_Name: Sphere (1)
->>>>>>> pt-car
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!65 &2078729810
 BoxCollider:
-=======
---- !u!135 &2109416284
-SphereCollider:
->>>>>>> pt-car
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2078729809}
-=======
-  m_GameObject: {fileID: 2109416283}
->>>>>>> pt-car
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -1373,25 +1301,15 @@ SphereCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-<<<<<<< HEAD
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &2078729811
-=======
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!23 &2109416285
->>>>>>> pt-car
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2078729809}
-=======
-  m_GameObject: {fileID: 2109416283}
->>>>>>> pt-car
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -1427,31 +1345,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
-<<<<<<< HEAD
 --- !u!33 &2078729812
-=======
---- !u!33 &2109416286
->>>>>>> pt-car
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2078729809}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &2078729813
-=======
-  m_GameObject: {fileID: 2109416283}
-  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &2109416287
->>>>>>> pt-car
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2078729809}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -1464,15 +1371,6 @@ Transform:
   - {fileID: 1178509116}
   - {fileID: 856103034}
   - {fileID: 339915673}
-=======
-  m_GameObject: {fileID: 2109416283}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.75, z: 3.5}
-  m_LocalScale: {x: 2, y: 2, z: 2}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
->>>>>>> pt-car
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
@@ -1484,10 +1382,5 @@ SceneRoots:
   - {fileID: 1487273916}
   - {fileID: 1845853253}
   - {fileID: 259145629}
-<<<<<<< HEAD
   - {fileID: 1068326211}
   - {fileID: 2078729813}
-=======
-  - {fileID: 2109416287}
-  - {fileID: 1022225524}
->>>>>>> pt-car
